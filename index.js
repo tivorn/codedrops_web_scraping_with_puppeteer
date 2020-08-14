@@ -2,7 +2,6 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 
-//Autoexecuted function (function)()
 let scrape = async () => {
 
     //To load a web browser puppeteer returns a promise, 
