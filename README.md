@@ -18,7 +18,7 @@
     1. Collect data from books of all categories
     2. Add selectors and input text to filter books
     3. Refactor the project
-    4. Create a pretty visual identity
+    4. Create a pleasant visual identity
     
 - 💻 **Results**
 
