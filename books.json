@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Refatorando HTML",
+    "author": "Elliotte Rusty Harold",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788577806317.jpg"
+  },
+  {
+    "title": "HTML 5",
+    "author": "Evandro Carlos Teruel",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788536506067.jpg"
+  },
+  {
+    "title": "Kit De Treinamento Exame MCTS 70-642",
+    "author": "Tony Northrup, J. C. Mackin",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788565837132.jpg"
+  },
+  {
+    "title": "Engenharia de Software",
+    "author": "Roger S. Pressman, Bruce R. Maxim",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788580555332.png"
+  },
+  {
+    "title": "Informática",
+    "author": "Marcelo Marçula, Pio Armando Benini Filho",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788536531960.png"
+  },
+  {
+    "title": "Microeconomia e Comportamento",
+    "author": "Robert H. Frank",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788580552447.jpg"
+  },
+  {
+    "title": "Refatoração para Padrões",
+    "author": "Joshua Keriesky",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788577802449.jpg"
+  },
+  {
+    "title": "Microsoft SQL Server 2008",
+    "author": "Mike Hotek",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788577806423.png"
+  },
+  {
+    "title": "OCA Oracle Database 11g",
+    "author": "John Watson",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788577806157.jpg"
+  },
+  {
+    "title": "Sistemas de Informações Contábeis",
+    "author": "Robert L. Hurt",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788580553307.jpg"
+  },
+  {
+    "title": "Java 8 - Ensino didático",
+    "author": "Sérgio Furgeri",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788536513041.jpg"
+  },
+  {
+    "title": "Introdução à computação - hardware, software e dados",
+    "author": "André C. P. L. F. de Carvalho, Ana Carolina Lorena",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788521631071.jpg"
+  },
+  {
+    "title": "Fundamentos de Sistemas de Informação",
+    "author": "Jorge Luis Nicolas Audy, Gilberto Keller de Andrade, Alexandre Cidral",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788536304489.jpg"
+  },
+  {
+    "title": "Exam Ref 70-740",
+    "author": "Craig Zacker",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788582604663.png"
+  },
+  {
+    "title": "Voz sobre protocolo IP",
+    "author": "Paulo Sérgio Milano Bernal",
+    "image": "https://store-minha.s3.amazonaws.com/covers/medium_9788536501741.jpg"
+  }
+]
