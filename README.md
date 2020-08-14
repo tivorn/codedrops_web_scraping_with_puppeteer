@@ -13,6 +13,13 @@
     3. Wrang data
     4. Storage data into a local file
     5. Display data into front-end
+    
+    🦶 **Next steps:**
+    1. Collect data from books of all categories
+    2. Add selectors and input text to filter books
+    3. Refactor the project
+    4. Create a pretty visual identity
+    
 - 💻 **Results**
 
     ![img_results](https://i.imgur.com/0Typ8tS.png)
