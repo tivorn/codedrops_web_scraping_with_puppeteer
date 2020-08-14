@@ -19,24 +19,14 @@
 
 - ℹ️ **Resource**
 
-    [](https://pptr.dev/)
-
-    Puppeteer documentation
-
+    [Puppeteer documentation](https://pptr.dev/)
+    
     [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
-
-    Asynchronous JavaScript documentation
 
     [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
-    Object-Oriented Programming with JavaScript
-
     [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-    DOM Documentation
-
     [Node.js v14.8.0 Documentation](https://nodejs.org/api/fs.html)
-
-    File System node module
 
     [Node.js: web scraping com Puppeteer](https://medium.com/@fabiojanio/node-js-web-scraping-com-puppeteer-29dd974eb042)
